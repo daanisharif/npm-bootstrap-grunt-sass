@@ -12,6 +12,10 @@
     "sass",
     "grunt"
   ],
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/daanisharif/npm-bootstrap-grunt-sass.git"
+},
   "author": "danish arif",
   "license": "mit",
   "devDependencies": {
